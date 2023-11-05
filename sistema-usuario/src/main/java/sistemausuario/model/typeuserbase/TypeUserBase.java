@@ -1,4 +1,4 @@
-package sistemausuario.model;
+package sistemausuario.model.typeuserbase;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
