@@ -1,4 +1,4 @@
-package sistemausuario.request;
+package sistemausuario.request.typeuserbase;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

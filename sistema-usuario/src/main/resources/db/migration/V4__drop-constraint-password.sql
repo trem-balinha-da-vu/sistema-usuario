@@ -1,0 +1,2 @@
+ALTER TABLE usuario_base
+DROP CONSTRAINT senha_unique_constraint;

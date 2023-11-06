@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import org.springframework.stereotype.Component;
 
 import sistemausuario.model.typeuserbase.TypeUserBase;
-import sistemausuario.request.TypeUserBaseRequest;
+import sistemausuario.request.typeuserbase.TypeUserBaseRequest;
 import sistemausuario.response.typeuserbase.TypeUserBaseResponse;
 
 @Component

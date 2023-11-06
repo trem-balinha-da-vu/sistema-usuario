@@ -2,7 +2,7 @@ package sistemausuario.service.typeuserbase;
 
 import java.util.List;
 
-import sistemausuario.request.TypeUserBaseRequest;
+import sistemausuario.request.typeuserbase.TypeUserBaseRequest;
 import sistemausuario.response.typeuserbase.TypeUserBaseResponse;
 
 public interface TypeUserBaseService {

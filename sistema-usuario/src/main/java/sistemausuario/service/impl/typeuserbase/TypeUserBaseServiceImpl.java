@@ -8,7 +8,7 @@ import org.springframework.stereotype.Service;
 import sistemausuario.mapper.typeuserbase.TypeUserBaseMapper;
 import sistemausuario.model.typeuserbase.TypeUserBase;
 import sistemausuario.repository.typeuserbase.TypeUserBaseRepository;
-import sistemausuario.request.TypeUserBaseRequest;
+import sistemausuario.request.typeuserbase.TypeUserBaseRequest;
 import sistemausuario.response.typeuserbase.TypeUserBaseResponse;
 import sistemausuario.service.typeuserbase.TypeUserBaseService;
 
